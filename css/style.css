@@ -92,7 +92,7 @@ main h3{
 
 
 .presentation{
-  background-image: url('../images/Abous us 1.jpg');
+  background-image: url('./images/Abous us 1.jpg');
   line-height: 0;
   opacity: 0.8;
   margin: 0;
@@ -211,7 +211,7 @@ main h3{
 .dupla{}
 
 .presentation-Menu{
-  background-image: url('../images/logo-menu.jpg');
+  background-image: url('./images/logo-menu.jpg');
   background-position: center;
   line-height: 0;
   opacity: 0.8;
@@ -225,7 +225,7 @@ main h3{
 }
 
 .presentation-Reservation{
-  background-image: url('../images/reservation.jpg');
+  background-image: url('./images/reservation.jpg');
   background-position: center;
   line-height: 0;
   opacity: 0.8;
