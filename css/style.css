@@ -225,7 +225,7 @@ main h3{
 }
 
 .presentation-Reservation{
-  background-image: url('finalProject/images/reservation.jpg');
+  background-image: url('../images/reservation.jpg');
   background-position: center;
   line-height: 0;
   opacity: 0.8;
